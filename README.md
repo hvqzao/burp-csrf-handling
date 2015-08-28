@@ -10,7 +10,7 @@ Extension handles multiple tokens, use multiple search sequences, you can use sp
 etc. Additionally, it is possible to define search and replace modifications for requests and
 responses.
 
-This extension is also included in Wildcard Burp extension. http://github.com/hvqzao/wildcard.git
+This extension is also included in Wildcard Burp extension. http://github.com/hvqzao/burp-wildcard.git
 
 ## Usage
 
