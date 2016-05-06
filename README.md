@@ -22,4 +22,4 @@ This extension is also included in Wildcard Burp extension. http://github.com/hv
 
 ## License
 
-[MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE)
+[MIT License](LICENSE)
